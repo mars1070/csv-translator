@@ -1,0 +1,39 @@
+# Fichiers d'environnement
+.env
+.env.*
+
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Dossiers virtuels
+venv/
+ENV/
+
+# Fichiers de modèles LLAMA
+*.gguf
+
+# Fichiers temporaires
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
